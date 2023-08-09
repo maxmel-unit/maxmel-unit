@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @maxmel-unit
 - 👀 I’m interested in python & ruby dev
-- 🌱 I’m currently learning python & ruby dev & STO
-- 💞️ I’m looking to collaborate on STO
-- 📫 How to reach me ...
+- 🌱 I’m currently in pisition PM/CIO
+- 💞️ I’m looking to collaborate in AI projects
 
 <!---
 maxmel-unit/maxmel-unit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
